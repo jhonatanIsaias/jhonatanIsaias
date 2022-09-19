@@ -1,7 +1,7 @@
 Olá ,Meu nome é jhonatan Isaias!
 
 - 👨‍🎓 Estante do curso Bacharelado em  Sistemas da informação
-- ☕ Aprendo atualmente a linguagem Java
+- ☕ Aprendendo atualmente a linguagem Java
 
 
 <div align="center">
