@@ -1,9 +1,5 @@
 Olá ,Meu nome é jhonatan Isaias!
 
-- 👨‍🎓 Estudante do curso Bacharelado em  Sistemas da informação
-
-
-
 <div align="center">
   <div align="center">
   <a href="https://github.com/jhonatanIsaias">
